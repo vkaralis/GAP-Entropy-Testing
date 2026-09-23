@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "Gap-Entropy Testing (GET): reference implementation"
+type: software
+authors:
+  - family-names: Karalis
+    given-names: Vangelis D.
+year: 2026
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Karalis
+      given-names: Vangelis D.
+  title: "Gap-Entropy Testing (GET): A Framework for Structural and Distributional Differences"
+  journal: "Applied Mathematics and Statistics"
+  year: 2026
+  volume: 3
+  issue: 2
+  article-number: 19
+  doi: 10.53941/ams.2026.100019
+
