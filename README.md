@@ -126,3 +126,9 @@ p-values use the finite-sample correction `(exceedances + 1) / (B + 1)`.
 
 The code is released under the MIT License. Citation metadata is provided in
 `CITATION.cff`.
+
+## Support
+
+This repository is provided as a reference implementation accompanying the
+published article and is made available as-is. Individual technical support,
+implementation consulting, and guaranteed response times are not provided.
